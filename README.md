@@ -10,7 +10,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Vucko95/Formula1TelemetryStreaming"><h3>F1 Telemetry</h3></a>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZmYmJpNmY1d2xsd3U2dDliMm9qNGc0c2JldGNwenVqd3ZlcmNpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jh5teENGN8s8u5IyWJ/giphy.gif" alt="F1 Telemetry GIF" width="400" height="140">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZmYmJpNmY1d2xsd3U2dDliMm9qNGc0c2JldGNwenVqd3ZlcmNpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jh5teENGN8s8u5IyWJ/giphy.gif" alt="F1 Telemetry GIF" width="400" height="160">
     </td>
   </tr>
 </table>
