@@ -1,16 +1,17 @@
 <h1>Hi 👋, I'm Ronald</h1>
 <p>Beyond my professional commitments, most of my personal development software work is related to Formula 1</p>
-
+<h4>🌐 My Website <a href="https://formula1datalab.com">https://formula1datalab.com</a></h4>
+<h4>💻 F1 Telemetry <a href="https://github.com/Vucko95/Formula1TelemetryStreaming">github.com/Vucko95/Formula1TelemetryStreaming</a></h4>
 <h2> ⭐ My 2 most relevant Projects</h2>
 <table>
   <tr>
     <td align="center">
       <a href="https://formula1datalab.com/"><h3>F1 Data Lab</h3></a>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVjcmN6bDNpcm05dHpmcmxuMWV4c3ZvbzN5MnB4YjczY2U0a3phbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AGN0LJ4Bw69bqxSA7r/giphy.gif" alt="F1 Data Lab GIF" width="400">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVjcmN6bDNpcm05dHpmcmxuMWV4c3ZvbzN5MnB4YjczY2U0a3phbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AGN0LJ4Bw69bqxSA7r/giphy.gif" alt="F1 Data Lab GIF" width="380">
     </td>
     <td align="center">
       <a href="https://github.com/Vucko95/Formula1TelemetryStreaming"><h3>F1 Telemetry</h3></a>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZmYmJpNmY1d2xsd3U2dDliMm9qNGc0c2JldGNwenVqd3ZlcmNpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jh5teENGN8s8u5IyWJ/giphy.gif" alt="F1 Telemetry GIF" width="400" height="160">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZmYmJpNmY1d2xsd3U2dDliMm9qNGc0c2JldGNwenVqd3ZlcmNpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jh5teENGN8s8u5IyWJ/giphy.gif" alt="F1 Telemetry GIF" width="380" height="160">
     </td>
   </tr>
 </table>
