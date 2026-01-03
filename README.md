@@ -4,8 +4,6 @@
 <h4>🌐 F1 Data Lab <a href="https://formula1datalab.com">https://formula1datalab.com</a></h4>
 <h4>💻 GitHub Repo <a href="https://github.com/Vucko95/Formula1TelemetryStreaming">github.com/Vucko95/Formula1TelemetryStreaming</a></h4>
 
-<h2> ⭐ My 2 most relevant Projects</h2>
-
 <table>
   <tr>
     <td colspan="2" align="center">
