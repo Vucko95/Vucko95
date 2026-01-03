@@ -1,17 +1,26 @@
 <h1>Hi 👋, I'm Ronald</h1>
-<p>Beyond my professional commitments, most of my personal development software work is related to Formula 1</p>
-<h4>🌐 My Website <a href="https://formula1datalab.com">https://formula1datalab.com</a></h4>
-<h4>💻 F1 Telemetry <a href="https://github.com/Vucko95/Formula1TelemetryStreaming">github.com/Vucko95/Formula1TelemetryStreaming</a></h4>
+<p>Beyond my professional commitments, most of my personal development software work is related to Formula Data Analytics</p>
+<h4>🌐 F1 Telemetry <a href="https://formula-telemetry.com/">https://formula-telemetry.com/</a></h4>
+<h4>🌐 F1 Data Lab <a href="https://formula1datalab.com">https://formula1datalab.com</a></h4>
+<h4>💻 GitHub Repo <a href="https://github.com/Vucko95/Formula1TelemetryStreaming">github.com/Vucko95/Formula1TelemetryStreaming</a></h4>
+
 <h2> ⭐ My 2 most relevant Projects</h2>
+
 <table>
   <tr>
-    <td align="center">
+    <td colspan="2" align="center">
+      <a href="https://formula-telemetry.com/"><h3>🏎️ Formula Telemetry Live</h3></a>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZnbXp2bXAwa2dmcDBxcDA0Y280bzN4Y3QwajR3ODZsbWpyejJqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r3oLLZFGmn1tliav7a/giphy.gif" alt="Formula Telemetry Showcase" width="800">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://formula1datalab.com/"><h3>F1 Data Lab</h3></a>
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVjcmN6bDNpcm05dHpmcmxuMWV4c3ZvbzN5MnB4YjczY2U0a3phbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AGN0LJ4Bw69bqxSA7r/giphy.gif" alt="F1 Data Lab GIF" width="380">
     </td>
-    <td align="center">
-      <a href="https://github.com/Vucko95/Formula1TelemetryStreaming"><h3>F1 Telemetry</h3></a>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZmYmJpNmY1d2xsd3U2dDliMm9qNGc0c2JldGNwenVqd3ZlcmNpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jh5teENGN8s8u5IyWJ/giphy.gif" alt="F1 Telemetry GIF" width="380" height="160">
+    <td align="center" width="50%">
+      <a href="https://github.com/Vucko95/Formula1TelemetryStreaming"><h3>F1 Telemetry Repo</h3></a>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZmYmJpNmY1d2xsd3U2dDliMm9qNGc0c2JldGNwenVqd3ZlcmNpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jh5teENGN8s8u5IyWJ/giphy.gif" alt="F1 Telemetry GIF" width="380">
     </td>
   </tr>
 </table>
