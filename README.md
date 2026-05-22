@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ronald</h1>
+<h1>Hi, I'm Ronald</h1>
 <p>Beyond my professional commitments, most of my personal development software work is related to Formula Data Analytics</p>
 
 <h4>🌐 F1 Telemetry <a href="https://formula-telemetry.com/">https://formula-telemetry.com</a></h4>
@@ -7,8 +7,8 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://formula-telemetry.com/"><h3>🏎️ Formula Telemetry Live</h3></a>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZnbXp2bXAwa2dmcDBxcDA0Y280bzN4Y3QwajR3ODZsbWpyejJqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r3oLLZFGmn1tliav7a/giphy.gif" alt="Formula Telemetry Showcase" width="800">
+      <a href="https://formula-telemetry.com/"><h3>🏎️ Formula Telemetry website with 3D Race Rewind</h3></a>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdwdDBqeWFvdW00NmpwcGpmNmM4ajJ5bzd1bzRhYjZsMDdwdDY2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6mv6tLqrJMfNZQGdhw/giphy.gif" alt="Formula Telemetry Showcase" >
     </td>
   </tr>
   <tr>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-<h2>🚀 Languages & Tools I'm Proficient In</h2>
+<h2>🚀 Languages & Tools </h2>
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
