@@ -6,9 +6,13 @@
 
 <table>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center" width="50%">
       <a href="https://formula-telemetry.com/"><h3>🏎️ Formula Telemetry website with 3D Race Rewind</h3></a>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdwdDBqeWFvdW00NmpwcGpmNmM4ajJ5bzd1bzRhYjZsMDdwdDY2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6mv6tLqrJMfNZQGdhw/giphy.gif" alt="Formula Telemetry Showcase" >
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdwdDBqeWFvdW00NmpwcGpmNmM4ajJ5bzd1bzRhYjZsMDdwdDY2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6mv6tLqrJMfNZQGdhw/giphy.gif" alt="Formula Telemetry Showcase" width="380">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://docs.formula-telemetry.com/"><h3>F1 Telemetry Docs</h3></a>
+      <img src="https://i.imgur.com/qJx7tBA.png" alt="F1 Telemetry Docs" width="380">
     </td>
   </tr>
   <tr>
