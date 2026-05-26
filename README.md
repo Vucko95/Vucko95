@@ -1,6 +1,5 @@
 <h1>Hi, I'm Ronald</h1>
 <p>Beyond my professional commitments, most of my personal development software work is related to Formula Data Analytics</p>
-<img src="https://raw.githubusercontent.com/Vucko95/formula-telemetry-docs/main/docs/assets/animation.gif" alt="animation" width="277" height="277" />
 
 <h4>🌐 F1 Telemetry Website <a href="https://formula-telemetry.com/">https://formula-telemetry.com</a></h4>
 <h4>🌐 Telemetry  Documentation <a href="https://docs.formula-telemetry.com/">https://docs.formula-telemetry.com</a></h4>
