@@ -1,9 +1,9 @@
 <h1>Hi, I'm Ronald</h1>
 <p>Beyond my professional commitments, most of my personal development software work is related to Formula Data Analytics</p>
 
-<h4>🌐 F1 Telemetry <a href="https://formula-telemetry.com/">https://formula-telemetry.com</a></h4>
-<h4>🌐 Formula Docs <a href="https://docs.formula-telemetry.com/">https://docs.formula-telemetry.com</a></h4>
-<h4>💻 GitHub Repo <a href="https://github.com/Vucko95/Formula1TelemetryStreaming">github.com/Vucko95/Formula1TelemetryStreaming</a></h4>
+<h4>🌐 F1 Telemetry Website <a href="https://formula-telemetry.com/">https://formula-telemetry.com</a></h4>
+<h4>🌐 Telemetry  Documentation <a href="https://docs.formula-telemetry.com/">https://docs.formula-telemetry.com</a></h4>
+<h4>🌐 GitHub Repo <a href="https://github.com/Vucko95/Formula1TelemetryStreaming">github.com/Vucko95/Formula1TelemetryStreaming</a></h4>
 
 <table>
   <tr>
